@@ -2,7 +2,7 @@ import React from 'react'
 
 import { getPosts, getPostDetails} from '../../services'
 
-import { PostDetail, Categories, PostWidget, Author, Comments, CommentsForm, Loader} from '../../components';
+import { PostDetail, Categories, PostWidget, Author, Loader} from '../../components';
 
 import { useRouter } from "next/router"
 
