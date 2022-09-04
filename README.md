@@ -1,4 +1,4 @@
-# Iroirona Kansou Blog
+# Kansou Blog
 
 Blog website designed for writing show reviews in Japanese
 
